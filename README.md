@@ -61,7 +61,7 @@ These are the most actionable insights that emerged from the segmentation:
 These customers are in the trial phase and are expensive to retain. They’re highly sensitive to price and experience. Proactive onboarding, 
 personalized communication, or flexible contract offers could help convert them into long-term subscribers.
 
-### 🔹 2. Premium Loyalists Are the Telco's Power Customers
+###  2. Premium Loyalists Are the Telco's Power Customers
 - Longest tenure and highest monthly charges
 - Loyal to **1–2 year contracts**
 - **Churn rate:**  **8.55%**
@@ -72,7 +72,7 @@ This is your most profitable and loyal customer group. They require protection t
 ###  3. Churn-Prone Mid-Termers Need Close Monitoring
 - Mid-level tenure and moderate-to-high charges
 - Mostly prefer **month-to-month contracts**
-- **Churn rate:** ⚠ **30.63%**
+- **Churn rate:**  **30.63%**
 - 
 ** Business Implication:**  
 These users may appear stable but are quietly at risk. They’re indecisive and disengaged—ideal targets for nudges like contract upgrade offers,
@@ -94,6 +94,9 @@ Segmented churn analysis is far more insightful than overall churn percentages. 
 -  Implement **targeted retention strategies** instead of generic campaigns
 -  Allocate **budgets more efficiently** based on risk and value
 -  Deliver **personalized communications** that resonate with each segment
+
+  ### References
+- Dataset: telecommunication Data from Kaggle
 
 > Understanding **who churns** and **why** leads to smarter, more profitable decisions.
 
